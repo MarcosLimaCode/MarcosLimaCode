@@ -6,7 +6,7 @@ Especialista em dados estruturados com mais de 10 anos de atuação na área edi
 
 - 🚀 Atualmente focado no ecossistema **JavaScript (React, Node.js)** e **Java (Spring Boot)**.
 - 🛠️ Especialista em automação de fluxos de dados e padrão **JATS XML / SciELO**.
-- 🎓 Bacharel em Publicidade e Propaganda pela **Universidade Presbiteriana Mackenzie** e graduado no Bootcamp Full Stack da **Driven Education**.
+- 🎓 Bacharel em Publicidade e Propaganda pela **Universidade Presbiteriana Mackenzie** e formação intensiva como Desenvolvedor Full Stack pela **Driven Education**.
 
 ---
 
